@@ -20,14 +20,14 @@ Unauthorized use can be illegal and unethical.
 Setup
 1. Clone the repository:
 `bash
-git clone https://github.com/yourusername/heartbeat-bot.git
+git clone https://github.com/layanshu/heartbeat-bot.git
 
 cd heartbeat-bot
 
 on target machine 
 
 #!/bin/bash
-git clone https://github.com/yourusername/heartbeat-bot.git
+git clone https://github.com/layanshu/heartbeat-bot.git
 
 cd heartbeat-bot
 
